@@ -1,0 +1,18 @@
+name: doplugin
+version: 0.4
+main: mc.plugin.Main
+api-version: 1.15
+authors: [ doant ]
+website: https://www.d0main.mcv.kr
+commands:
+  explosion_protection:
+    description: 폭발방어
+    aliases: [explosion_protection,e_p]
+  random:
+    description: 랜덤
+  inventory:
+    description: 인벤토리
+  fly:
+    description: 플라이
+  do_config:
+    description: 컨피그

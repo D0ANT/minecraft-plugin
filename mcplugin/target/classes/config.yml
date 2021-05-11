@@ -1,0 +1,7 @@
+enable: '[D0ANT_plugin] 서버가 시작되었습니다..'
+disable: '[D0ANT_plugin] 서버가 멈추었습니다'
+cmdmessage: '도개미는 서버장이면서 이 플러그인 개발자이고 레드스톤과 커맨드까지 쿼드러플로 전공해버린 천재이다. (?)'
+
+join:
+  message: '서버에 오신것을 환영합니다'
+  title: true
